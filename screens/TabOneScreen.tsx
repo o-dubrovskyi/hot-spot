@@ -1,6 +1,6 @@
 import { StyleSheet } from 'react-native';
 
-import HotSpot from '../components/HotSpot';
+import { HotSpot } from '../components/HotSpot';
 import { View } from '../components/Themed';
 import { RootTabScreenProps } from '../types';
 
